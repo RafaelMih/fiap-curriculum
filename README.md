@@ -1,2 +1,2 @@
-# fiap-curriculum
+# Fiap Curriculum
 Repositório para exercício FIAP
